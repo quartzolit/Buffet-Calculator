@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Import Materialize-CSS
+This project use Materialize-CSS framework. To do so, go to [Link](https://materializecss.com/getting-started.html) and download the package. 
+
 ## Available Scripts
 
 In the project directory, you can run:
